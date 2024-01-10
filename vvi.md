@@ -18,4 +18,11 @@ Hooks
 5. useId =>generating unique id to passing attributes
 
    Link=> donot use refrash the page
-   Redux=> pass the data in organized way,state management
+
+Redux=> pass the data in organized way,state management
+
+React-redux=>to use like bridge in react,we can't spread previous value because all value are store in Store data
+useSelector=select data
+useDispatch=send data
+First make
+ store=>configurestore
